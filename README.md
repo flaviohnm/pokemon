@@ -133,9 +133,9 @@ Será necessário substituir o `<seu-usuário>` pelo seu nome de usuário do Git
       npm run deploy
 ### Confira o projeto publicado
 
-- **Back-End**: [Api Rest - Stock](https://stock-santander-dio.herokuapp.com/bootcamp/swagger-ui.html)
+- **Back-End**: [Api Rest - PokeApi](https://pokeapi.co/)
 
-- **Front-End**: [Site](https://flaviohnm.github.io/homebroker/)
+- **Front-End**: [Hospedagem no Vercel](https://pokemon-angular-virid.vercel.app/)
 
 ## :pencil:Comentários sobre o projeto
 
